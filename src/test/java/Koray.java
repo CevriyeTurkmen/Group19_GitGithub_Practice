@@ -5,6 +5,7 @@ public class Koray {
 
         System.out.println("Good luck with the new project");
 
+        System.out.println("Success to everyone");
 
     }
 
