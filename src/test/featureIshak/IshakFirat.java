@@ -6,6 +6,8 @@ public class IshakFirat {
 
         System.out.println("Hello friends");
 
+        System.out.println("Good luck with the new project");
+
 
 
     }
