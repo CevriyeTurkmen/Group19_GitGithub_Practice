@@ -9,7 +9,7 @@ public class MustafaAkgun {
 
         // is it ok now ??
 
-        System.out.println("I liked it.");
+        System.out.println("I liked it...");
 
 
     }
